@@ -1,0 +1,15 @@
+body{
+    height: 230px;
+    width: 290px;
+    background-color: #DCF2F1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+}
+#quotes{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    color:#365486 ;
+}
