@@ -1,6 +1,6 @@
 # GetQuote Chrome Extension
 
-GetQuote is a Chrome extension that generates a new Hindi quote every time you click on the icon.
+GetQuote is a Chrome extension that generates a new Hindi quote every time you click on the icon 🌟.
 
 ## Features
 
